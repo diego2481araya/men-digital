@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+  font-family: Raleway;
+}
+table td{
+     border: 1px solid #F9E3A2;
+}
+.logo{
+  width: 400px;
+}
+.content {
+  font-size: 25px;
+  position: relative;
+  width: 100%;
+}
+.span {
+  color: #DB1D4B;
+  font-weight: 400;
+}
+.menu {
+  text-align: center;
+  font-size: 15pt;
+  width: 100%;
+  position: relative;
+  justify-content: space-between;
+  top: 10px;
+  bottom: 10px;
+  background-color: #DB1D4B;
+  color: #F9E3A2;
+  border-radius: 40px;
+}
+footer {
+  text-align: center;
+  font-size: 15pt;
+  width: 100%;
+  position: absolute;
+  justify-content: space-between;
+}
+footer td{
+  color: #DB1D4B;
+  align-items: center;
+}
+.btn{
+  padding: 10px 20px;
+  border-color: #DB1D4B;
+  display: inline-block;
+}
+.btn1{
+  background-color: #F9E3A2;
+  font-family: Raleway;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

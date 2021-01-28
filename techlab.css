@@ -1,0 +1,23 @@
+.logo1{
+  width: 200px;
+  border-top-width: 100;
+  position: relative;
+}
+h1{
+  font-family: arial;
+  font-size: 32px;
+}
+p {
+  font-family: arial;
+  font-size: 18px;
+}
+br {
+  width: 10px;
+}
+.tbl1 {
+  background-color: black;
+  position: relative;
+  color: white;
+  border-radius: 10px;
+  padding: 50px 50px;
+}
